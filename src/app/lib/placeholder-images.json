@@ -1,0 +1,95 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-main",
+      "description": "Historical epic queen",
+      "imageUrl": "https://picsum.photos/seed/medieval-monarch/1920/1080",
+      "imageHint": "medieval queen"
+    },
+    {
+      "id": "movie-1",
+      "description": "La Reina Urraca I de León",
+      "imageUrl": "https://picsum.photos/seed/urraca/600/338",
+      "imageHint": "medieval castle"
+    },
+    {
+      "id": "movie-2",
+      "description": "Cyberpunk character",
+      "imageUrl": "https://picsum.photos/seed/movie2/600/338",
+      "imageHint": "cyberpunk character"
+    },
+    {
+      "id": "movie-3",
+      "description": "Space exploration",
+      "imageUrl": "https://picsum.photos/seed/movie3/600/338",
+      "imageHint": "space exploration"
+    },
+    {
+      "id": "movie-4",
+      "description": "Deep sea mystery",
+      "imageUrl": "https://picsum.photos/seed/movie4/600/338",
+      "imageHint": "underwater movie"
+    },
+    {
+      "id": "movie-5",
+      "description": "Historical drama",
+      "imageUrl": "https://picsum.photos/seed/movie5/600/338",
+      "imageHint": "historical drama"
+    },
+    {
+      "id": "movie-6",
+      "description": "Action chase",
+      "imageUrl": "https://picsum.photos/seed/movie6/600/338",
+      "imageHint": "action chase"
+    },
+    {
+      "id": "movie-7",
+      "description": "Fantasy forest",
+      "imageUrl": "https://picsum.photos/seed/movie7/600/338",
+      "imageHint": "fantasy forest"
+    },
+    {
+      "id": "movie-8",
+      "description": "Modern architecture",
+      "imageUrl": "https://picsum.photos/seed/movie8/600/338",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "movie-social-1",
+      "description": "Urban portrait",
+      "imageUrl": "https://picsum.photos/seed/social1/600/338",
+      "imageHint": "urban portrait"
+    },
+    {
+      "id": "movie-social-2",
+      "description": "Old hands holding",
+      "imageUrl": "https://picsum.photos/seed/social2/600/338",
+      "imageHint": "human connection"
+    },
+    {
+      "id": "exp-1",
+      "description": "Liquid light study",
+      "imageUrl": "https://picsum.photos/seed/exp1/600/338",
+      "imageHint": "light reflections"
+    },
+    {
+      "id": "exp-2",
+      "description": "Mathematical patterns",
+      "imageUrl": "https://picsum.photos/seed/exp2/600/338",
+      "imageHint": "geometric architecture"
+    },
+    {
+      "id": "exp-3",
+      "description": "Synthetic pulse visualization",
+      "imageUrl": "https://picsum.photos/seed/exp3/600/338",
+      "imageHint": "abstract motion"
+    },
+    {
+      "id": "exp-4",
+      "description": "Visual echoes layering",
+      "imageUrl": "https://picsum.photos/seed/exp4/600/338",
+      "imageHint": "video layers"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ export interface Project {
     id: string;
       title: string;
         description: string;
-          imageUrl: string; 
+          imageUrl: string;
             category: string;
               year: string;
                 gallery?: string[]; // Imágenes adicionales para el bucle del Hero (4 imágenes recomendadas)
@@ -60,7 +60,7 @@ export interface Project {
                                                                                                                                                                                           id: '5',
                                                                                                                                                                                               title: 'El Bosque de Ayer',
                                                                                                                                                                                                   description: 'El Alzheimer como viaje ensoñado y solitario por la memoria',
-                                                                                                                                                                                                      imageUrl: 'https://picsum.photos/seed/forest-memory/600/338', 
+                                                                                                                                                                                                      imageUrl: 'https://picsum.photos/seed/forest-memory/600/338',
                                                                                                                                                                                                           category: 'Premiados',
                                                                                                                                                                                                               year: '2024',
                                                                                                                                                                                                                   videoUrl: 'https://youtu.be/zmdw8VeGVuk'
@@ -176,5 +176,3 @@ export interface Project {
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ];
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     export const CATEGORIES = Array.from(new Set(PROJECTS.map(p => p.category)));
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-}

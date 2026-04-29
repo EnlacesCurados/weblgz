@@ -5,6 +5,9 @@ import { FirebaseClientProvider } from '@/firebase';
 export const metadata: Metadata = {
   title: 'LUIS ÁNGEL MENDAÑA / CINE IA | Portafolio Cinematográfico Premium',
   description: 'Cineasta con Inteligencia Artificial | Formador en IA Generativa | Director de postgrado de IA Generativa en IEBS',
+  icons: {
+    icon: '/favicon.jpg',
+  },
 };
 
 export default function RootLayout({
